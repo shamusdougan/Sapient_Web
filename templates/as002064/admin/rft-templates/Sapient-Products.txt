@@ -1,0 +1,66 @@
+row-1::height:40px;| &nbsp
+row-ws::Workstations
+row-svr::Servers
+row-2::Onsite Support
+row-3::Remote Support 
+row-4::Phone Support
+row-5::AntiVirus/Malware Software     
+row-6::Patch and Update Monitoring     
+row-7::Monthly Health Reports     
+row-8::Scheduled Updates and Maintenance     
+row-9::Ticketing and Problem Tracking     
+row-10::Support for Mac OS X      
+row-11::Server Monitoring      
+row-12::Hardware and Network Monitoring      
+row-13::Cloud Backup Solution*  
+---
+row-1::height:40px;background-color:#b5d5ea;|<font size="+2">Pay By the Hour</font>
+row-1-link::index.php?option=com_content&view=article&id=6
+row-ws::$0
+row-svr::$0
+row-2::<B>$145</B> per Hour
+row-3::<B>$145</B> per Hour
+row-4::<B>$145</B> per Hour
+row-5::&nbsp
+row-6::&nbsp
+row-7::&nbsp
+row-8::&nbsp
+row-9::&nbsp
+row-10::&nbsp
+row-11::&nbsp
+row-12::&nbsp
+row-13::&nbsp
+---
+row-1::height:40px;background-color: #b5d5ea;|<font size="+2">Business <br>Support Package</font>
+row-1-link:: index.php?option=com_content&view=article&id=5
+row-ws::<B>$9</B> per Month
+row-svr::<B>$45</B> per Month
+row-2::<B>$98</B> per Hour
+row-3::<B>$98</B> per Hour
+row-4::<B>$98</B> per Hour
+row-5::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-6::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-7::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-8::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-9::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-10::&nbsp
+row-11::&nbsp
+row-12::&nbsp
+row-13::&nbsp
+---
+row-1::height:40px;background-color: #b5d5ea;|<font size="+2">Managed Service <br>Premium</font>
+row-1-link::index.php?option=com_content&view=article&id=4
+row-ws::<B>$49</B> per Month
+row-svr::<B>$249</B> per Month
+row-2::<B>Free</B>
+row-3::<B>Free</B>
+row-4::<B>Free</B>
+row-5::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-6::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-7::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-8::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-9::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-10::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-11::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-12::height:18px;|<img src="images/tick.png" style="border:none;" >
+row-13::height:18px;|<img src="images/tick.png" style="border:none;" >

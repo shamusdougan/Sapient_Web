@@ -1,0 +1,234 @@
+/**************************************************************************************/
+/*
+/*		Designed by 'AS Designing'
+/*		Web: http://www.asdesigning.com
+/*		Web: http://www.astemplates.com
+/*		License: ASDE Commercial
+/*
+/**************************************************************************************/
+
+
+#nsp-nsp-99 .nspArt img.nspImage {
+    margin: 0 auto;
+    max-width: 100%;
+  	outline : none;
+  	border: 0;
+}
+
+
+
+
+
+#header-top-row .moduletable.sapientSocial li a
+{
+    border-radius: 45%;
+    display: block;
+    float: right;
+    font-size: 12px;
+    height: 23px;
+    line-height: 20px;
+    margin-left: 8px;
+    text-align: center;
+    transition: background 0.5s ease 0.1s;
+	
+}
+
+#header-top-row .moduletable.sapientSocial li a
+{
+    background-color: transparent !important;
+    color: #000000;
+	transition: background 0.5s ease 0.1s;	
+}
+
+
+#header-top-row .moduletable.sapientSocial li a:hover
+{
+	color: #000000;
+	transition: color 0.5s ease 0.1s;
+	background-color: #01799c !important;
+	transition: background-color 0.5s ease 0.1s;
+}
+
+
+#header-top-row .moduletable.sapientSocial .nav
+{
+	
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	float: right;
+}
+
+
+#header-top-row .moduletable.sapientSocial .nav li
+{
+	list-style-image: none;
+	display: inline;
+	padding-right: 20px;
+	height: 20px;
+}
+
+#icon-home li
+{
+	background-image: url('images/icons/home.png');
+	background-repeat: no-repeat;
+
+	
+}
+
+
+
+#test{
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+#sapient_facebook{
+	background: red;
+}
+
+
+/**************************************************************************************/
+/*
+/*		Designed by 'Shamus Dougan'
+/* 		User for the Rok Feature table responsive 
+/*
+/**************************************************************************************/
+
+div.rokfeaturetable.col3 div.featuretable-col,
+div.rokfeaturetable.col2 div.featuretable-col,
+div.rokfeaturetable.col1 div.featuretable-col
+{
+	-webkit-transition: box-shadow 0.25s ease;
+	-moz-transition: box-shadow 0.25s ease;
+	-o-transition: box-shadow 0.25s ease;
+	-ms-transition: box-shadow 0.25s ease;
+	transition: box-shadow 0.25s ease;	
+}
+
+
+
+
+div.rokfeaturetable.col3 div.featuretable-col:hover,
+div.rokfeaturetable.col2 div.featuretable-col:hover,
+div.rokfeaturetable.col1 div.featuretable-col:hover
+	{
+	position: relative;
+	z-index: 100;
+	left: -5px;
+	top: -15px;
+	/* shadow */
+	box-shadow: 5px 0px 30px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 5px 0px 30px rgba(0,0,0,0.5);
+	-moz-box-shadow: 5px 0px 30px rgba(0,0,0,0.5);
+	/* --- border radius --- */	
+	/* --- white triange bug fix --- */
+	border-radius: 5px 5px 0px 0px;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	}
+
+
+@media screen and (max-width: 1424px)
+{
+	
+	div.rokfeaturetable.col3 div.featuretable-col div.featuretable-cell.ft-row-top a
+	{
+		font-size: 24px;
+	}
+}
+
+
+@media screen and (max-width: 1024px)
+{
+	
+	div.rokfeaturetable.col3 div.featuretable-col
+	{
+		width: 250px;
+	}
+	
+	div.rokfeaturetable.col3 div.featuretable-col div.featuretable-cell.ft-row-top a
+	{
+		font-size: 18px;
+	}
+	
+	div.rokfeaturetable.office365 div.featuretable-col div.featuretable-cell.row-1
+	{
+		font-size: 24px !important;
+	}
+
+	
+
+
+}
+
+
+
+
+@media screen and (max-width: 635px)
+{
+	
+	div.rokfeaturetable.col2 div.featuretable-col
+	{
+		width: 291px;
+	}
+}
+
+
+/**************************************************************************************/
+/*
+/*		Designed by 'Shamus Dougan'
+/* 		User for the Rok Feature table responsive 
+/*		Custome Footer style
+/*
+/**************************************************************************************/
+
+#sapient-footer-row
+{
+	
+	min-height: 220px;
+	background-color: #000000;
+	background: linear-gradient(#575788, #010168);
+}
+
+.footer-container
+{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+
+#sapient_contactus
+{
+	width: 300px;
+	height: 150px;
+	float: left;
+}
+
+div.sapient_sitemap
+{
+	
+	width: 900px;
+	height: 150px;
+	float: left;
+	overflow: hidden;
+
+}
+
+#sapient_copyright
+{
+	color: white;
+	width: 100%;;
+	float: left;
+}
+
+.item-138
+{
+	font-size: 24px;
+	font-weight: bold;
+	color: #010168;
+}
+
