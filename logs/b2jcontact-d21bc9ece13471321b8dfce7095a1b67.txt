@@ -1,0 +1,100 @@
+2014-12-28 23:45:57 ---------------------------------------------------
+*Company Name*
+blah
+
+*Contact Number*
+123456
+
+*Contact Name*
+shamus
+
+*Contact Email*
+shamus.dougan@sapient-tech.com.au
+
+*Employees*
+&gt; 15 Employees
+
+*Message*
+blah blah blah
+
+
+
+Sapient Technology Solutions - http://localhost/index.php/contact
+Client: ::1 - Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+2014-12-28 23:45:57 Email sent.
+2014-12-28 23:52:33 ---------------------------------------------------
+*Company Name*
+sadfasdf
+
+*Contact Number*
+
+
+*Contact Name*
+sdfasdf
+
+*Contact Email*
+shamus.dougan@sapient-tech.com.au
+
+*Employees*
+
+
+*Message*
+asdfasdf
+
+
+
+Sapient Technology Solutions - http://localhost/index.php/contact
+Client: ::1 - Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+2014-12-28 23:52:33 Error while sending the email. Could not execute: /var/qmail/bin/sendmail
+2014-12-28 23:56:03 ---------------------------------------------------
+*Company Name*
+sadfasdf
+
+*Contact Number*
+
+
+*Contact Name*
+sdfasdf
+
+*Contact Email*
+shamus.dougan@sapient-tech.com.au
+
+*Employees*
+
+
+*Message*
+asdfasdf
+
+
+
+Sapient Technology Solutions - http://localhost/index.php/contact
+Client: ::1 - Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+2014-12-28 23:56:03 Email sent.
+2014-12-29 00:02:29 ---------------------------------------------------
+*Company Name*
+dfasdf
+
+*Contact Number*
+asdfas
+
+*Contact Name*
+sdfasdf
+
+*Contact Email*
+shamus.dougan@sapient-tech.com.au
+
+*Employees*
+5-10 Employees
+
+*Message*
+blah blah
+
+
+
+Sapient Technology Solutions - http://localhost/index.php/contact
+Client: ::1 - Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+2014-12-29 00:02:29 Email sent.
